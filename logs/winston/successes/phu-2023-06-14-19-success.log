@@ -1,0 +1,48 @@
+{
+  message: '🛢 Database Connect Successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-14T13:15:10.182Z'
+}
+{
+  message: 'Application listening on config.port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-14T13:15:10.275Z'
+}
+{
+  message: '🛢 Database Connect Successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-14T13:15:26.981Z'
+}
+{
+  message: 'Application listening on config.port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-14T13:15:26.988Z'
+}
+{
+  message: '🛢 Database Connect Successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-14T13:17:31.188Z'
+}
+{
+  message: 'Application listening on config.port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-14T13:17:31.195Z'
+}
+{
+  message: '🛢 Database Connect Successfully',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-14T13:45:50.834Z'
+}
+{
+  message: 'Application listening on config.port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-14T13:45:50.843Z'
+}
